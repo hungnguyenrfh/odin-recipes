@@ -12,3 +12,19 @@ h1 {
 .center {
     text-align: center;
 }
+
+.recipe {
+    font-size: 90px;
+}
+
+#pho {
+    background-color: aqua;
+}
+
+#carbonara {
+    background-color: aquamarine;
+}
+
+#fosoup {
+    background-color: chartreuse;
+}
