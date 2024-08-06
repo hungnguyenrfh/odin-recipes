@@ -6,7 +6,7 @@
 
 h1 {
     font-weight: bold;
-    font-size: 300px;
+    font-size: 150px;
 }
 
 .center {
@@ -15,6 +15,7 @@ h1 {
 
 .recipe {
     font-size: 90px;
+    outline: 2px solid black;
 }
 
 #pho {
